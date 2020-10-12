@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋‘‹</div>
+### Hi there 👋</div>
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=AIPTU3110&show_icons=true&count_private=true&hide_title=true)
 
