@@ -1,45 +1,33 @@
-
-
-<!--
-**AIPTU3110/AIPTU3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋</div>
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=AIPTU3110&show_icons=true&count_private=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIPTU3110&layout=compact)
-
-<!--
-
-**AIPTU3110/AIPTU3110** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ðŸ”­ Iâ€™m currently working on ...
-
-- ðŸŒ± Iâ€™m currently learning ...
-
-- ðŸ‘¯ Iâ€™m looking to collaborate on ...
-
-- ðŸ¤” Iâ€™m looking for help with ...
-
-- ðŸ’¬ Ask me about ...
-
-- ðŸ“« How to reach me: ...
-
-- ðŸ˜„ Pronouns: ...
-
-- âš¡ Fun fact: ...
-
--->
+# My Stats
+<p align="center"><a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=AIPTU3110&show_icons=true&include_all_commits=true&line_height=33&count_private=true" />
+</a></p>
+# Most Language
+<p align="center"><a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AIPTU3110&langs_count=4&count_private=true" />
+</a></p>
+<p align="center"><a href="#">
+  <img src="https://img.shields.io/badge/-C-2e3440?logoColor=81a1c1&logo=C" />
+  <img src="https://img.shields.io/badge/-C++-2e3440?logoColor=81a1c1&logo=c%2b%2b" />
+  <img src="https://img.shields.io/badge/-Java-2e3440?logoColor=81a1c1&logo=Java" />
+  <img src="https://img.shields.io/badge/-PHP-2e3440?logoColor=81a1c1&logo=PHP" />
+  <img src="https://img.shields.io/badge/-JavaScript-2e3440?logoColor=81a1c1&logo=JavaScript" />
+  <img src="https://img.shields.io/badge/-SQL-2e3440?logoColor=81a1c1&logo=MySQL" />
+  <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=81a1c1&logo=html5" />
+  <img src="https://img.shields.io/badge/-SCSS-2e3440?logoColor=81a1c1&logo=sass" />
+  <img src="https://img.shields.io/badge/-SVG-2e3440?logoColor=81a1c1&logo=svg" />
+</a></p>
+<p align="center"><a href="#">
+  <img src="https://img.shields.io/badge/-Git-2e3440?logoColor=81a1c1&logo=git" />
+  <img src="https://img.shields.io/badge/-Github-2e3440?logoColor=81a1c1&logo=github" />
+  <img src="https://img.shields.io/badge/-Linux-2e3440?logoColor=81a1c1&logo=linux" />
+  <img src="https://img.shields.io/badge/-Ubuntu-2e3440?logoColor=81a1c1&logo=ubuntu" />
+  <img src="https://img.shields.io/badge/-NodeJS-2e3440?logoColor=81a1c1&logo=node.js" />
+  <img src="https://img.shields.io/badge/-VueJS-2e3440?logoColor=81a1c1&logo=vue.js" />
+  <img src="https://img.shields.io/badge/-Hexo-2e3440?logoColor=81a1c1&logo=hexo" />
+  <img src="https://img.shields.io/badge/-Svelte-2e3440?logoColor=81a1c1&logo=svelte" />
+</a></p>
+<p align="center"><a href="#">
+  <img src="https://github-profile-trophy.vercel.app/?username=AIPTU3110&margin-w=28&margin-h=15" />
+</p></a></p>
+<br><br><br><br>
